@@ -1,0 +1,5 @@
+Krzysztof 20
+Janusz 40
+Hubert 98
+Hubert 33
+Hubert 19
